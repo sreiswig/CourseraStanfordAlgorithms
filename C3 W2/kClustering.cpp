@@ -69,7 +69,7 @@ class Graph {
         }
 
         long long big_clustering(int minDistance) {
-
+            
         }
 
         void printEdges() {
@@ -130,7 +130,6 @@ int main() {
                     bits.reset(i);
                 }
             }
-            vertex_bits.push_back(bits);
         }
     }
 }
